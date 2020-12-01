@@ -1,2 +1,2 @@
 # Recriando-o-famoso-jogo-do-dinossauro-sem-internet
-Quinto projeto guiado referente ao bootcamp Javascipt Game Developer oferecido na Digital Innovation One. 
+Quinto projeto guiado referente ao bootcamp Javascipt Game Developer oferecido na Digital Innovation One. O projeto, guiado por Celso Henrique, aborda diversos conceitos introdutórios importantes para programação na web, tais como: tags básicas de HTML, manipulação de eventos, funções e manipulação de elementos HTML usando JavaScript, estilização e animações básicas com CSS.
